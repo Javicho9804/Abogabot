@@ -22,6 +22,14 @@ Un despacho de abogados que quiere automatizar las demandas de sus clientes.
 
 3.- El administrador actualizara el proceso de la demanda y agregara comentarios.
 
+### Diagrama
+
+
+![Workflow](https://user-images.githubusercontent.com/114206571/196257759-8b75b732-81fc-4dd6-bf4b-9a7f624ace32.png)
+
+
+
+
 ### Publico Objetivo
 
 ![image](https://user-images.githubusercontent.com/114206571/196240027-46f54f1b-421c-49e2-bdc5-951a4361966f.png)
