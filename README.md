@@ -26,3 +26,5 @@ Un despacho de abogados que quiere automatizar las demandas de sus clientes.
 
 ### Buyer
 
+
+![FABIO ROGRIGUEZ](https://user-images.githubusercontent.com/114206571/196226352-cf5cbac9-80d0-44a1-a442-45272277bac5.jpg)
